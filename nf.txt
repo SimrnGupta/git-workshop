@@ -1,2 +1,2 @@
-this is the first line of new FFFeature
+this is the first line of new Feature
 updating to create Conflict
